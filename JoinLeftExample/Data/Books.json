@@ -1,0 +1,26 @@
+﻿[
+  {
+    "id": 0,
+    "authorId": 0,
+    "title": "Pan Jan",
+    "year": 1993
+  },
+  {
+    "id": 1,
+    "authorId": 1,
+    "title": "Pan Piotr",
+    "year": 1996
+  },
+  {
+    "id": 2,
+    "authorId": 1,
+    "title": "Pan Dorian",
+    "year": 2006
+  },
+  {
+    "id": 3,
+    "authorId": 5,
+    "title": "Pan Kran",
+    "year": 2005
+  }
+]
